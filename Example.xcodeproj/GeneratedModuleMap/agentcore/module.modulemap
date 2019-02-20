@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/kubabialy/Desktop/iOS/Kitura/Example/.build/checkouts/omr-agentcore--8583855032933749616/src/agentcore/include"
+    export *
+}
